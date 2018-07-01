@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195068397059",
+    "firebase_url": "https://diary-app-706ca.firebaseio.com",
+    "project_id": "diary-app-706ca",
+    "storage_bucket": "diary-app-706ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195068397059:android:00b0945b64620288",
+        "android_client_info": {
+          "package_name": "com.example.user.diaryapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195068397059-d998mu0ndfd15bad0qltfa1hii4br4do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.diaryapplication",
+            "certificate_hash": "27754094fd987b4faf7caf3279bdd9e1a7985a98"
+          }
+        },
+        {
+          "client_id": "195068397059-4vgt8bbm6h7uh8r86urf1upv0ivbrdg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKW01L93p8Fm1xcRDdfj01FN4Kwsjb1eE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195068397059-4vgt8bbm6h7uh8r86urf1upv0ivbrdg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

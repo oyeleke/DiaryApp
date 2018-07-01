@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Diary Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_up">Sign up</string>
+    <string name="title_activity_diary_items">diaryItemsActivity</string>
+    <string name="title_activity_add_diary_item">AdddiaryItemActivity</string>
+    <string name="web_client_id">195068397059-4vgt8bbm6h7uh8r86urf1upv0ivbrdg4.apps.googleusercontent.com</string>
+    <string name="web_client_secret">M-C83Vkw6k-Z_5sQqPriSlNF</string>
+    <string name="loading">loading...</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_Log_out">log out</string>
+</resources>
