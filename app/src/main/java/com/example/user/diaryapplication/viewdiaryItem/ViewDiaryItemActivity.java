@@ -43,7 +43,7 @@ public class ViewDiaryItemActivity extends BaseActivity implements ViewDiaryItem
         setContentView(R.layout.add_diary_items);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("Diary Items");
+        getSupportActionBar().setTitle("Diary Item");
         ButterKnife.bind(this);
         prefsUtils = Provider.providePrefManager(getApplicationContext());
         postDataBaseRefrence = FirebaseDatabase.getInstance().getReference(Constants.DIARYITEMS);
