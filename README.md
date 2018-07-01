@@ -9,8 +9,9 @@ After a user is done with writing the floating action button can be used to save
 
 - Android Support Library - Backward compatibility for views
 - Butter Knife - Field and method binding for Android views
-- Retrofit - A type-safe HTTP client for Android and Java.
-- Picasso - An Image loading library.
+- Retrofit gson converter - for easily converting objects into a form that can be stored in preferences.
+- Firebase - Basically a backend as a service for authentication and real time database.
+- gms play services - for google login.
 
 
 ## Getting Started
